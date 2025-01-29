@@ -16,7 +16,7 @@ With a strong focus on providing scalable, innovative solutions, we are committe
 
 ## Connect With Us
 
-- **Website**: [https://nexcode-django.onrender.com/](https://nexcode-django.onrender.com/)
+- **Website**: [https://www.nexcodes.dev](https://www.nexcodes.dev)
 - **LinkedIn**: [NexCode Rwanda](https://www.linkedin.com/company/nexcode-rwanda/)
 - **Instagram**: [@nexcoderw](https://instagram.com/nexcoderw)
 - **X (formerly Twitter)**: [@nexcoderw](https://x.com/nexcoderw)
